@@ -33,3 +33,4 @@
  - [01.17](https://github.com/barcoders-inha/barcoders/tree/main/History/01.17)
  - [01.18](https://github.com/barcoders-inha/barcoders/tree/main/History/01.18)
  - [01.19](https://github.com/barcoders-inha/barcoders/tree/main/History/01.19)
+ - [01.22](https://github.com/barcoders-inha/barcoders/tree/main/History/01.22)
